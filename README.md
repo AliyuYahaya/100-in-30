@@ -34,8 +34,8 @@
 10. **Basic Todo List**
     - **Description:** Allows users to add, remove, and view tasks in a to-do list, using simple console interactions.
 
-11. **Basic ATM Simulator**
-    - **Description:** Simulates an ATM with functionalities such as checking balance, withdrawing, and depositing money.
+11. **Distance Converter**
+    - **Description:** converts distances between Kilometers, Meters, Miles and Yards.
 
 12. **Temperature Converter (Celsius/Fahrenheit)**
     - **Description:** Converts temperatures between Celsius and Fahrenheit, with options for both conversions.
